@@ -5,13 +5,15 @@ using namespace std;
 
 class Room
 {
-	Room(string Description)
+	Room(string Description = "")
 	{
-
+		//set desctiption
 	}
 public:
-	void CreateRoom(char Direction);
+	void CreateRoom(char Direction, string Description = "");
 	Room* GetRoom(char Direction);
+	string GetDescription();
+	void SetDescription(string Description);
 private:
 	Room* North = nullptr;
 	Room* East = nullptr;
