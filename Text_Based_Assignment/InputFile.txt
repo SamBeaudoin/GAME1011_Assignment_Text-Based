@@ -1,0 +1,4 @@
+00 This would be our first string loaded in
+01 Our next string
+02 The string that would immediately follow
+03 etc...
