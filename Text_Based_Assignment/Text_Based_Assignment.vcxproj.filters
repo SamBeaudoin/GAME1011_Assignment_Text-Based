@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Text_Based_Assignment.cpp">
+    <ClCompile Include="DynIntStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DynIntStack.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
