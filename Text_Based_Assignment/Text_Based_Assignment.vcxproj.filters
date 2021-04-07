@@ -18,5 +18,13 @@
     <ClCompile Include="Text_Based_Assignment.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DynIntStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DynIntStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

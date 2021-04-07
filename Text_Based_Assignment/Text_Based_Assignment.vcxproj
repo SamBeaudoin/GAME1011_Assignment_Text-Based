@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DynIntStack.cpp" />
     <ClCompile Include="Text_Based_Assignment.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DynIntStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
