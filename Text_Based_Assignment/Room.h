@@ -5,6 +5,10 @@ using namespace std;
 
 class Room
 {
+	Room(string Description)
+	{
+
+	}
 public:
 	void CreateRoom(char Direction);
 	Room* GetRoom(char Direction);
